@@ -34,3 +34,5 @@ This is the primary mode for these experiments. glslViewer provides:
     gl_FragColor — output color
 
 Do not include #version in 2D mode — glslViewer prepends its own header. Use gl_FragColor.
+
+Heavily commented for ease!
